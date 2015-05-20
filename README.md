@@ -1,9 +1,7 @@
-# Base16 Tomorrow Dark Syntax theme
+# Default Dark Syntax theme
 
-Atom theme using the ever popular [Base16 Tomorrow](http://chriskempson.github.io/base16/#tomorrow) dark colors.
-
-![Base16 Tomorrow light](https://cloud.githubusercontent.com/assets/378023/10118589/f108a568-64b6-11e5-8438-eb34dc9b40a1.png)
-
+Atom theme using the ever popular [base16][base16] default dark colors.
+A fork of Atom's [base16-tomorrow-dark-theme](https://github.com/atom/base16-tomorrow-dark-theme)
 
 ## Install
 
